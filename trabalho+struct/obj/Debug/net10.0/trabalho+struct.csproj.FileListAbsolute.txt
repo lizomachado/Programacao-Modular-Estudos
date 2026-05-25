@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\trabalho+struct\bin\Debug\net10.0\trabalho+struct.exe
+C:\Users\USER\Desktop\trabalho+struct\bin\Debug\net10.0\trabalho+struct.deps.json
+C:\Users\USER\Desktop\trabalho+struct\bin\Debug\net10.0\trabalho+struct.runtimeconfig.json
+C:\Users\USER\Desktop\trabalho+struct\bin\Debug\net10.0\trabalho+struct.dll
+C:\Users\USER\Desktop\trabalho+struct\bin\Debug\net10.0\trabalho+struct.pdb
+C:\Users\USER\Desktop\trabalho+struct\obj\Debug\net10.0\trabalho+struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\trabalho+struct\obj\Debug\net10.0\trabalho+struct.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\trabalho+struct\obj\Debug\net10.0\trabalho+struct.AssemblyInfo.cs
+C:\Users\USER\Desktop\trabalho+struct\obj\Debug\net10.0\trabalho+struct.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\trabalho+struct\obj\Debug\net10.0\trabalho+struct.dll
+C:\Users\USER\Desktop\trabalho+struct\obj\Debug\net10.0\refint\trabalho+struct.dll
+C:\Users\USER\Desktop\trabalho+struct\obj\Debug\net10.0\trabalho+struct.pdb
+C:\Users\USER\Desktop\trabalho+struct\obj\Debug\net10.0\trabalho+struct.genruntimeconfig.cache
+C:\Users\USER\Desktop\trabalho+struct\obj\Debug\net10.0\ref\trabalho+struct.dll
